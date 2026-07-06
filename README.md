@@ -1,17 +1,57 @@
-# React + Vite
+# 🚀 GreatStack - Modern Digital Agency Website
 
-This template provides a minimal setup to get React working in Vite with HMR and some Oxlint rules.
+A **modern, responsive** digital agency website built with React, Tailwind CSS, and Framer Motion. Features smooth animations, dark/light theme toggle, and custom cursor effects for an immersive user experience.
 
-Currently, two official plugins are available:
+![Website Preview](https://via.placeholder.com/1200x600/6C63FF/FFFFFF?text=GreatStack+Preview)
 
-- [@vitejs/plugin-react](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react) uses [Oxc](https://oxc.rs)
-- [@vitejs/plugin-react-swc](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react-swc) uses [SWC](https://swc.rs/)
+---
 
-## React Compiler
+## ✨ Features
 
-The React Compiler is not enabled on this template because of its impact on dev & build performances. To add it, see [this documentation](https://react.dev/learn/react-compiler/installation).
+### 🎨 **Design & UI**
+- ✅ **Modern Minimal Design** - Clean, professional layout
+- ✅ **Dark/Light Theme** - Seamless theme switching with localStorage persistence
+- ✅ **Custom Cursor** - Smooth animated cursor with ring and dot
+- ✅ **Smooth Animations** - Scroll-triggered animations using Framer Motion
+- ✅ **Fully Responsive** - Optimized for all screen sizes (mobile, tablet, desktop)
 
-## Expanding the Oxlint configuration
+### 🚀 **Performance**
+- ✅ **Optimized Assets** - Lazy loading and image optimization
+- ✅ **Fast Loading** - Minimal bundle size with React lazy loading
+- ✅ **Smooth Scrolling** - Native smooth scroll behavior
 
-If you are developing a production application, we recommend using TypeScript with type-aware lint rules enabled. Check out the [TS template](https://github.com/vitejs/vite/tree/main/packages/create-vite/template-react-ts) for information on how to integrate TypeScript and Oxlint's TypeScript related rules in your project.
-# Modern-Responsive-Webpage
+### 🛠️ **Tech Stack**
+- **Frontend:** React 18, Vite
+- **Styling:** Tailwind CSS
+- **Animations:** Framer Motion
+- **Notifications:** React Hot Toast
+- **Icons:** Custom SVG assets
+
+---
+
+## 📸 Sections
+
+| Section | Description |
+|---------|-------------|
+| **Hero** | Main banner with call-to-action |
+| **Trusted By** | Client logos and social proof |
+| **Services** | Core services offered |
+| **Our Work** | Portfolio/Projects showcase |
+| **Teams** | Team members section |
+| **Contact Us** | Contact form with toast notifications |
+| **Footer** | Newsletter subscription & social links |
+
+---
+
+## 🎯 Getting Started
+
+### Prerequisites
+- Node.js (v16 or higher)
+- npm or yarn package manager
+
+### Installation
+
+1. **Clone the repository**
+```bash
+git clone https://github.com/yourusername/greatstack-website.git
+cd greatstack-website
