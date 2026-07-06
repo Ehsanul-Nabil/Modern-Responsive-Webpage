@@ -53,5 +53,5 @@ A **modern, responsive** digital agency website built with React, Tailwind CSS, 
 
 1. **Clone the repository**
 ```bash
-git clone https://github.com/yourusername/greatstack-website.git
+git clone https://github.com/Ehsanul-Nabil/greatstack-website.git
 cd greatstack-website
